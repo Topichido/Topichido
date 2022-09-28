@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Topichido
-- 👀 I’m interested in Machine learning, Artificial intelligence,Deep Learning,Data Science,Blockchain Technology
-- 🌱 I’m currently learning Python programming,Data Science and Analysis,Machine learning.
-- 💞️ I’m looking to collaborate on Python projects,Artificial intelligence projects, Cryptocurrency projects.
+- 👀 I’m interested in Web3, Blockchain Technology
+- 🌱 I’m currently learning Javascript, Solidity, ReactJS
+- 💞️ I’m looking to collaborate on NFT Projects, Web3 Projects, Cryptocurrency projects.
 - 📫 How to reach me ...
 
 <!---
